@@ -1,8 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: tepe.so
+description: Technical documentation
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://tepelabs.github.io/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  tepe.so: https://tepe.so/
+  X: https://x.com/tepe_labs
+  Discord: https://discord.gg/MEw877x86p
