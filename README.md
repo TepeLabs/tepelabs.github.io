@@ -1,6 +1,6 @@
 # tepe.so documentation
 
-Technical documentation for [tepe.so][https://tepe.so/].
+Technical documentation for [tepe.so](https://tepe.so/).
 
 ## License
 
