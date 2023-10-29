@@ -1,4 +1,4 @@
-title: tepe.so
+title: Tepe
 description: Technical documentation
 theme: just-the-docs
 
@@ -8,3 +8,9 @@ aux_links:
   tepe.so: https://tepe.so/
   X: https://x.com/tepe_labs
   Discord: https://discord.gg/MEw877x86p
+
+logo: "/assets/images/logo.png"
+favicon_ico: "/assets/images/favicon.ico"
+
+ga_tracking: G-GW3K8813RJ
+ga_tracking_anonymize_ip: true
