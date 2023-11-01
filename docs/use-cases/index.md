@@ -9,4 +9,20 @@ description: "Tepe is an app that lets you use blockchain tokens to encrypt, own
 
 Here are some of the kinds of files you can share and even monetize with Tepe:
 
-An e-book, a digital artwork, a personal journal entry, a paid report, a software application, a music track, a research paper, a digital course, a podcast episode, a 3D model, a design template, a video tutorial, a game, a documentary, a virtual event ticket, or even a personalized fitness plan.
+1. an e-book
+2. a digital artwork
+3. a personal journal entry
+4. a paid report
+5. a software application
+6. a music track
+7. a research paper
+8. a digital course
+9. a fine-tuned AI model
+10. a podcast episode
+11. a 3D model
+12. a design template
+13. a video tutorial
+14. a game
+15. a documentary
+16. a virtual event ticket
+17. a personalized fitness plan.
