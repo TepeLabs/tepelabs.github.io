@@ -20,7 +20,7 @@ Tepe is built on three core decentralized technologies: decentralized storage, d
 Tepe uses a multi-faceted approach to storing data. Files are stored off-chain on Arweave, but the records of ownership are stored on-chain on Ethereum and Polygon. This allows us to keep the cost of ownership low, while still ensuring that ownership records are immutable and decentralized.
 
 Tepe stores the following on a traditional database:
-1. details for encrypted files, including their Lit-encrypted decryption keys, their Arweave URLs, and the NFTs used for encryption and
+1. encrypted file information, including their Lit-encrypted decryption keys, their Arweave URLs, and the NFTs used for encryption and
 2. profile information, including usernames, Ethereum addresses, and profile pictures.
 
-We plan to eventually store this data on-chain as well, but for now, we are using a traditional database.
+We use [Sign-in with Ethereum](https://login.xyz/) for authentication, so we do not store passwords. We plan to eventually store this data on-chain as well, but for now, we are using a traditional database.
